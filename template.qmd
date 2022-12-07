@@ -1,0 +1,17 @@
+---
+title: Untitled
+format:
+  bass_html-html: default
+author: Name
+date: last-modified
+---
+
+## Introduction
+
+TESTTEST
+*TODO* Create an example file that demonstrates the formatting and features of your format.
+
+## More Information
+
+You can learn more about controlling the appearance of HTML output here: <https://quarto.org/docs/output-formats/html-basics.html>
+
